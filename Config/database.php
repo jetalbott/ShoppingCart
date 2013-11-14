@@ -1,7 +1,7 @@
 <?php
 class DATABASE_CONFIG {
 
-	public $shopping_cart = array(
+	public $default = array(
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
 		'host' => 'localhost',
