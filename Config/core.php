@@ -366,3 +366,4 @@ Cache::config('_cake_model_', array(
 	'serialize' => ($engine === 'File'),
 	'duration' => $duration
 ));
+Configure::write('debug', 1);
