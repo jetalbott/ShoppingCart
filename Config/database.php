@@ -8,5 +8,6 @@ class DATABASE_CONFIG {
 		'login' => 'root',
 		'password' => 'mypass',
 		'database' => 'shopping_cart',
+	    'prefix' => 't_'
 	);
 }
